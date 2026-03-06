@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/suvro/Downloads/backend-20260306T141111Z-1-001/backend/**)",
+      "Bash(python -c \"import fastapi; import pydantic; print\\(''OK''\\)\")"
+    ]
+  }
+}
