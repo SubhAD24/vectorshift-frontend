@@ -2,6 +2,8 @@
 
 A modern, visually stunning drag-and-drop pipeline builder for designing AI/ML workflows. Built with **React**, **ReactFlow**, and **Zustand** — featuring an immersive 3D glassmorphic UI, real-time graph validation, and full backend integration.
 
+live link - https://vectorshift-pipeline-builder-bywfjeuod.vercel.app/
+
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react&logoColor=white)
 ![ReactFlow](https://img.shields.io/badge/ReactFlow-11.8-ff0072?logo=reactflow)
 ![Zustand](https://img.shields.io/badge/Zustand-5.0-443d2e)
